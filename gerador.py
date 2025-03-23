@@ -1,6 +1,7 @@
 import random
 substantivo = []
-
+# NEW FEATURE !!!!!!!!!!!!!!!!!!!!!!
+# OHHHHHHHHHHHHH MY GOOOOOOOOOODD !!!!!!!!!!!!!!
 genero=''
 
 while True:
