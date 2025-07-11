@@ -19,7 +19,7 @@ You can choose between **masculine (M)** or **feminine (F)** nickname styles.
 
 ---
 
-##👤 Author
+## 👤 Author
 
 João Vitor de Oliveira Lima
 📧 ghostcode541@gmail.com
